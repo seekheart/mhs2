@@ -1,0 +1,20 @@
+@use '~@angular/material' as mat;
+table {
+  width: 100%;
+}
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  background: mat.get-color-from-palette(mat.$dark-theme-background-palette, 'background');
+  height: 100%;
+  width: 100%;
+}
+
+input {
+  color: white;
+}
