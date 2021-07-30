@@ -5,6 +5,9 @@ import { MonsterCombatComponent } from './monster-combat.component';
 const routes: Routes = [
   {
     path: "monsters", component: MonsterCombatComponent
+  },
+  {
+    path: "**", component: MonsterCombatComponent
   }
 ];
 
