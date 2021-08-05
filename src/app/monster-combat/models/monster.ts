@@ -10,4 +10,5 @@ export interface Monster {
   attackTwoCondition: string
   attackThree: string
   attackThreeCondition: string
+  elementalWeakness: string
 }

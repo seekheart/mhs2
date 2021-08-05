@@ -19,7 +19,8 @@ export class MonsterCombatComponent implements OnInit {
     'attackTwo',
     'attackTwoCondition',
     'attackThree',
-    'attackThreeCondition'
+    'attackThreeCondition',
+    'elementalWeakness'
   ]
 
   colorAttack: Map<string, string> = new Map<string, string>();

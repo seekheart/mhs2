@@ -7,7 +7,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "water"
   },
   {
     "id": 3,
@@ -27,7 +29,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "ice"
   },
   {
     "id": 4,
@@ -37,7 +40,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "ice"
   },
   {
     "id": 5,
@@ -47,7 +51,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "hold rock",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "water"
   },
   {
     "id": 6,
@@ -57,7 +62,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 7,
@@ -67,7 +73,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 8,
@@ -77,7 +84,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "ice"
   },
   {
     "id": 9,
@@ -87,7 +95,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 10,
@@ -97,7 +106,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 11,
@@ -107,7 +117,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 12,
@@ -117,7 +128,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 13,
@@ -127,7 +139,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 14,
@@ -137,7 +150,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 15,
@@ -147,7 +161,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 16,
@@ -157,7 +172,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 17,
@@ -167,7 +183,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 18,
@@ -177,7 +194,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 19,
@@ -187,7 +205,8 @@ export const data = [
     "attackTwo": "tech",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 20,
@@ -197,7 +216,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "water"
   },
   {
     "id": 21,
@@ -207,7 +227,8 @@ export const data = [
     "attackTwo": "tech",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 22,
@@ -217,7 +238,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "ice"
   },
   {
     "id": 23,
@@ -227,7 +249,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "water"
   },
   {
     "id": 24,
@@ -237,7 +260,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 25,
@@ -247,7 +271,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 26,
@@ -257,7 +282,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "balloon mode",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 27,
@@ -267,7 +293,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "water"
   },
   {
     "id": 28,
@@ -277,7 +304,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "water"
   },
   {
     "id": 29,
@@ -287,7 +315,8 @@ export const data = [
     "attackTwo": "tech",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 30,
@@ -297,7 +326,8 @@ export const data = [
     "attackTwo": "tech",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 31,
@@ -307,7 +337,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "dragon"
   },
   {
     "id": 32,
@@ -317,7 +348,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 33,
@@ -327,7 +359,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 34,
@@ -337,7 +370,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 35,
@@ -347,7 +381,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 36,
@@ -357,7 +392,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 37,
@@ -367,7 +403,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 38,
@@ -377,7 +414,8 @@ export const data = [
     "attackTwo": "tech",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 39,
@@ -387,7 +425,8 @@ export const data = [
     "attackTwo": "tech",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 40,
@@ -397,7 +436,8 @@ export const data = [
     "attackTwo": "tech",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 41,
@@ -407,7 +447,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 42,
@@ -417,7 +458,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "ice mode",
     "attackThree": "power",
-    "attackThreeCondition": "inflated"
+    "attackThreeCondition": "inflated",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 43,
@@ -427,7 +469,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 44,
@@ -437,7 +480,8 @@ export const data = [
     "attackTwo": "tech",
     "attackTwoCondition": "covered in mud",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 45,
@@ -447,7 +491,8 @@ export const data = [
     "attackTwo": "tech",
     "attackTwoCondition": "enraged",
     "attackThree": "power",
-    "attackThreeCondition": "overcharge"
+    "attackThreeCondition": "overcharge",
+    "elementalWeakness": "water"
   },
   {
     "id": 46,
@@ -457,7 +502,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 47,
@@ -467,7 +513,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "enraged",
     "attackThree": "speed",
-    "attackThreeCondition": "charged"
+    "attackThreeCondition": "charged",
+    "elementalWeakness": "iwater"
   },
   {
     "id": 48,
@@ -477,7 +524,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 49,
@@ -487,7 +535,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enraged",
     "attackThree": "power",
-    "attackThreeCondition": "combined"
+    "attackThreeCondition": "combined",
+    "elementalWeakness": "fire"
   },
   {
     "id": 50,
@@ -497,7 +546,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 51,
@@ -507,7 +557,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enraged",
     "attackThree": "tech",
-    "attackThreeCondition": "covered in snow"
+    "attackThreeCondition": "covered in snow",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 52,
@@ -517,7 +568,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "water"
   },
   {
     "id": 53,
@@ -527,7 +579,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "snow slurped",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 54,
@@ -537,7 +590,8 @@ export const data = [
     "attackTwo": "tech",
     "attackTwoCondition": "charged",
     "attackThree": "power",
-    "attackThreeCondition": "super charged"
+    "attackThreeCondition": "super charged",
+    "elementalWeakness": "ice"
   },
   {
     "id": 55,
@@ -547,7 +601,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 56,
@@ -557,7 +612,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "enraged",
     "attackThree": "tech",
-    "attackThreeCondition": "flying"
+    "attackThreeCondition": "flying",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 57,
@@ -567,7 +623,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 58,
@@ -577,7 +634,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 59,
@@ -587,7 +645,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 60,
@@ -597,7 +656,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "ice"
   },
   {
     "id": 61,
@@ -607,7 +667,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 62,
@@ -617,7 +678,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "water"
   },
   {
     "id": 63,
@@ -627,7 +689,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "water"
   },
   {
     "id": 64,
@@ -637,7 +700,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "water"
   },
   {
     "id": 65,
@@ -647,7 +711,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "ice"
   },
   {
     "id": 66,
@@ -657,7 +722,8 @@ export const data = [
     "attackTwo": "tech",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "ice"
   },
   {
     "id": 67,
@@ -667,7 +733,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 68,
@@ -677,7 +744,8 @@ export const data = [
     "attackTwo": "tech",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "ice"
   },
   {
     "id": 69,
@@ -687,7 +755,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "water"
   },
   {
     "id": 70,
@@ -697,17 +766,19 @@ export const data = [
     "attackTwo": "tech",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 71,
     "name": "green nargacuga",
     "attackOne": "speed",
     "attackOneCondition": "normal",
-    "attackTwo": "tech",
+    "attackTwo": "power",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 72,
@@ -717,7 +788,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "ice"
   },
   {
     "id": 73,
@@ -727,7 +799,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "ice"
   },
   {
     "id": 74,
@@ -737,7 +810,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "ice"
   },
   {
     "id": 75,
@@ -747,7 +821,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "ice"
   },
   {
     "id": 76,
@@ -757,7 +832,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 77,
@@ -767,17 +843,19 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enraged",
     "attackThree": "tech",
-    "attackThreeCondition": "electrified"
+    "attackThreeCondition": "electrified",
+    "elementalWeakness": "fire"
   },
   {
     "id": 78,
-    "name": "uragaan",
+    "name": "nargacuga",
     "attackOne": "power",
     "attackOneCondition": "normal",
     "attackTwo": "tech",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 79,
@@ -787,7 +865,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 80,
@@ -797,7 +876,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "ice"
   },
   {
     "id": 81,
@@ -807,7 +887,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "water"
   },
   {
     "id": 82,
@@ -817,7 +898,8 @@ export const data = [
     "attackTwo": "tech",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 83,
@@ -827,7 +909,8 @@ export const data = [
     "attackTwo": "tech",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "ice"
   },
   {
     "id": 84,
@@ -837,7 +920,8 @@ export const data = [
     "attackTwo": "tech",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "water"
   },
   {
     "id": 85,
@@ -847,7 +931,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": ""
   },
   {
     "id": 86,
@@ -857,7 +942,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": ""
   },
   {
     "id": 87,
@@ -867,7 +953,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 88,
@@ -877,7 +964,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "ice"
   },
   {
     "id": 89,
@@ -887,7 +975,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "ice"
   },
   {
     "id": 90,
@@ -897,7 +986,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 91,
@@ -907,7 +997,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "ice"
   },
   {
     "id": 92,
@@ -917,7 +1008,8 @@ export const data = [
     "attackTwo": "tech",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "ice"
   },
   {
     "id": 93,
@@ -927,7 +1019,8 @@ export const data = [
     "attackTwo": "tech",
     "attackTwoCondition": "enraged",
     "attackThree": "power",
-    "attackThreeCondition": "lava mode"
+    "attackThreeCondition": "lava mode",
+    "elementalWeakness": "water"
   },
   {
     "id": 94,
@@ -937,7 +1030,8 @@ export const data = [
     "attackTwo": "tech",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "water"
   },
   {
     "id": 95,
@@ -947,7 +1041,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "enraged",
     "attackThree": "tech",
-    "attackThreeCondition": "electrified"
+    "attackThreeCondition": "electrified",
+    "elementalWeakness": "dragon"
   },
   {
     "id": 96,
@@ -957,7 +1052,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enrage",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "water"
   },
   {
     "id": 97,
@@ -967,7 +1063,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "spike armor",
     "attackThree": "speed",
-    "attackThreeCondition": "enraged"
+    "attackThreeCondition": "enraged",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 98,
@@ -975,9 +1072,10 @@ export const data = [
     "attackOne": "tech",
     "attackOneCondition": "normal",
     "attackTwo": "power",
-    "attackTwoCondition": "special buff",
+    "attackTwoCondition": "electrified",
     "attackThree": "speed",
-    "attackThreeCondition": "special buff"
+    "attackThreeCondition": "flying",
+    "elementalWeakness": "ice"
   },
   {
     "id": 99,
@@ -987,7 +1085,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "fireball charge",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "water"
   },
   {
     "id": 100,
@@ -997,7 +1096,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enraged",
     "attackThree": "power",
-    "attackThreeCondition": "snow mode"
+    "attackThreeCondition": "snow mode",
+    "elementalWeakness": "fire"
   },
   {
     "id": 101,
@@ -1007,7 +1107,8 @@ export const data = [
     "attackTwo": "tech",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 102,
@@ -1017,7 +1118,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": ""
   },
   {
     "id": 103,
@@ -1027,7 +1129,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": ""
   },
   {
     "id": 104,
@@ -1037,7 +1140,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 105,
@@ -1047,7 +1151,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": ""
   },
   {
     "id": 106,
@@ -1057,7 +1162,8 @@ export const data = [
     "attackTwo": "tech",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "ice"
   },
   {
     "id": 107,
@@ -1067,7 +1173,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "dragon"
   },
   {
     "id": 108,
@@ -1077,7 +1184,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 109,
@@ -1087,7 +1195,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 110,
@@ -1097,7 +1206,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": ""
   },
   {
     "id": 111,
@@ -1107,7 +1217,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "enraged, note can be tech",
     "attackThree": "speed",
-    "attackThreeCondition": "flying"
+    "attackThreeCondition": "flying",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 112,
@@ -1117,7 +1228,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "speed",
-    "attackThreeCondition": "flying"
+    "attackThreeCondition": "flying",
+    "elementalWeakness": "dragon"
   },
   {
     "id": 113,
@@ -1127,7 +1239,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "dragon"
   },
   {
     "id": 114,
@@ -1137,7 +1250,8 @@ export const data = [
     "attackTwo": "",
     "attackTwoCondition": "",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "ice"
   },
   {
     "id": 115,
@@ -1147,7 +1261,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 116,
@@ -1157,7 +1272,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "charged and thunderbugs",
     "attackThree": "tech",
-    "attackThreeCondition": "full charge"
+    "attackThreeCondition": "full charge",
+    "elementalWeakness": "ice"
   },
   {
     "id": 117,
@@ -1167,7 +1283,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "enraged or heavy weight",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "water"
   },
   {
     "id": 118,
@@ -1177,7 +1294,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 119,
@@ -1187,7 +1305,8 @@ export const data = [
     "attackTwo": "speed",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "dragon"
   },
   {
     "id": 120,
@@ -1197,7 +1316,8 @@ export const data = [
     "attackTwo": "tech",
     "attackTwoCondition": "enraged",
     "attackThree": "",
-    "attackThreeCondition": ""
+    "attackThreeCondition": "",
+    "elementalWeakness": "fire"
   },
   {
     "id": 121,
@@ -1207,7 +1327,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "enraged",
     "attackThree": "tech",
-    "attackThreeCondition": "flying"
+    "attackThreeCondition": "flying",
+    "elementalWeakness": "water"
   },
   {
     "id": 122,
@@ -1217,7 +1338,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "charged",
     "attackThree": "tech",
-    "attackThreeCondition": "depends on buff can also be speed!"
+    "attackThreeCondition": "depends on buff can also be speed!",
+    "elementalWeakness": "ice"
   },
   {
     "id": 123,
@@ -1227,7 +1349,8 @@ export const data = [
     "attackTwo": "power",
     "attackTwoCondition": "enraged",
     "attackThree": "speed",
-    "attackThreeCondition": "flying"
+    "attackThreeCondition": "flying",
+    "elementalWeakness": "thunder"
   },
   {
     "id": 124,
@@ -1237,6 +1360,51 @@ export const data = [
     "attackTwo": "tech",
     "attackTwoCondition": "covered in ice",
     "attackThree": "power",
-    "attackThreeCondition": "flying"
+    "attackThreeCondition": "flying",
+    "elementalWeakness": "fire"
+  },
+  {
+    "id": 125,
+    "name": "Kulve Taroth (Armored)",
+    "attackOne": "tech",
+    "attackOneCondition": "normal",
+    "attackTwo": "power",
+    "attackTwoCondition": "enraged",
+    "attackThree": "",
+    "attackThreeCondition": "",
+    "elementalWeakness": "thunder"
+  },
+  {
+    "id": 126,
+    "name": "Kulve Taroth (No Armor)",
+    "attackOne": "speed",
+    "attackOneCondition": "normal",
+    "attackTwo": "power",
+    "attackTwoCondition": "enraged",
+    "attackThree": "",
+    "attackThreeCondition": "",
+    "elementalWeakness": "ice"
+  },
+  {
+    "id": 127,
+    "name": "Boltreaver Astalos",
+    "attackOne": "tech",
+    "attackOneCondition": "normal",
+    "attackTwo": "speed",
+    "attackTwoCondition": "after it lands",
+    "attackThree": "",
+    "attackThreeCondition": "",
+    "elementalWeakness": "ice"
+  },
+  {
+    "id": 128,
+    "name": "Hellblade Glavenus",
+    "attackOne": "power",
+    "attackOneCondition": "normal",
+    "attackTwo": "speed",
+    "attackTwoCondition": "enraged",
+    "attackThree": "",
+    "attackThreeCondition": "",
+    "elementalWeakness": "water"
   }
 ]
